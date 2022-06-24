@@ -1,4 +1,17 @@
 h1 {
   font-weight: lighter;
   font-style: italic;
+  text-align: center;
+  font-size: 70px;
+  margin-top: 100px;
+}
+.error400 {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.error400 img {
+  width: 50%;
 }
